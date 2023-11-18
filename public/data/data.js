@@ -29,7 +29,7 @@ export const contact = [
 export const languages = [
   {
     value: `English`,
-    level: `Advanced`,
+    level: `Intermediate`,
   },
   {
     value: `Arabic`,
@@ -84,10 +84,10 @@ export const personalSkills = [
   `Critical Thinking`,
   `Team management`,
   `Ability to work under pressure`,
-  `problem solving and Decision making`,
+  `Problem solving and Decision making`,
 ];
 
-export const profile = `Full-stack developer aiming to build fully functional and reliable projects from front-end to back-end. I enjoy discovering new things in technology and I am accepting to the challenges that arise with it.`;
+export const profile = `Full-stack developer aiming to build fully functional and reliable projects from front-end to back-end. I enjoy discovering new things in technology and I am open to the challenges that arise witit.`;
 
 export const workExperience = [
   {
@@ -98,12 +98,12 @@ export const workExperience = [
   {
     title: `electircal Site engineer `,
     date: `Apr/2017 - Jan/2017`,
-    description: `Trained at the "Engineering office at university of Jordan" on the electrical installation and Engineering supervision of electrical contracting`,
+    description: `Trained at the "Engineering office at University of Jordan" on the electrical installation and Engineering supervision of electrical contracting`,
   },
   {
     title: `electircal power engineer`,
     date: `Jan/2017 - Apr/2017`,
-    description: `Trained at the Jordan electrical power company (Jepco) on the power system installation, protection power system and energy monitoring systems `,
+    description: `Trained at the Jordan Electrical Power Company (JEPCO) on the power system installation, protection power system and energy monitoring systems `,
   },
 ];
 
@@ -123,7 +123,7 @@ export const education = [
   {
     school: `Aljubaiha secondary school`,
     date: `2011-2012`,
-    feild: `Secondary School Certificate Cumulative`,
+    feild: `Secondary School Cumulative Certificate `,
     Rank: `93.0%`,
   },
 ];
